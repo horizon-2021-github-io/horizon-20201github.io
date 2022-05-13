@@ -1,0 +1,13 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Judy Watson
+
+## Media
+
+### Title
+media_EE59D619_E328_BCEB_41D6_7BCF60458AEC.label = Judy Watson

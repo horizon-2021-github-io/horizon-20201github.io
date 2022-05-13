@@ -1,0 +1,13 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Courtney Coombs
+
+## Media
+
+### Title
+media_E972A4A9_E318_BD2B_41E0_F8ECE8C585B1.label = Courtney Coombs

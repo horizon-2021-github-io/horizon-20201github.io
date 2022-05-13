@@ -1,0 +1,12 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Courtney & Itamar
+## Media
+
+### Title
+media_EE3EFF22_E36B_CCD9_41E2_DD5975FB4EAF.label = Courtney & Itamar
